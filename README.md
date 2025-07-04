@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumyadeep
-- 👀 I’m interested in software designing
-- 🌱 I’m currently learning the basics of software engineering
+- 👀 I’m interested in software designing, Web Development, Cyber Security, Artificial Intelligence
+- 🌱 I’m currently learning the basics of software engineering, web development, artificial intelligence
 - 💞️ I’m looking to collaborate on this field
 - 📫 How to reach me, you canmessage me in my instagram (venuzdnor_1_)
 -                                             or x (venuzdnor_1_)
